@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         Robin: "#11161c;",
+        Robin2: "#1b2129",
       },
     },
   },
